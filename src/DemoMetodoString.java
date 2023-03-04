@@ -5,6 +5,7 @@
  * Este programa usa el método isEmpty de la clase String.
  *******************************************************************/
 import java.util.Scanner;
+
 public class DemoMetodoString
 {
     public static void main(String[] args)

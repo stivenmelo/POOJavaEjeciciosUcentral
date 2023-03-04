@@ -5,6 +5,7 @@
  * Este programa ejecuta métodos de la clase Random.
  ******************************************************************/
 import java.util.Random;
+
 public class PruebaAleatoria
 {
     public static void main(String[] args)

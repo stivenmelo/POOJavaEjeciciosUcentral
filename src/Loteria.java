@@ -6,6 +6,7 @@
  * de manera aleatoria.
  *********************************************************************/
 import java.util.Scanner;
+
 public class Loteria
 {
     public static void main(String[] args)
