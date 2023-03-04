@@ -13,7 +13,7 @@ public class InfoImagen
         Scanner stdIn = new Scanner(System.in);
         ImageIcon icono;
         System.out.print("Introduzca el nombre de la imagen: ");
-        icono = new ImageIcon(stdIn.nextLine());
+        icono = new ImageIcon("Img/"+stdIn.nextLine());
         System.out.println("anchura de la imagen = " + icono.getIconWidth());
         System.out.println("altura de la imagen = " + icono.getIconHeight());
     }
